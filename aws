@@ -3,6 +3,8 @@ To push multiple branches at a time :
 git push -u origin branch1 branch2 branch3
 To push all branches at a time :
 To fetch the changes from github :
-git merge origin/branch_name
+okay 
+bye
+
 
 
