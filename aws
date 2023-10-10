@@ -2,10 +2,6 @@ HOW TO PUSH FILES TO GITHUB:
 To push multiple branches at a time :
 git push -u origin branch1 branch2 branch3
 To push all branches at a time :
-git pull origin branch_name
-fetch : check the changes from central
-if changes are present then we will merge to local
-merge : getting the chages from github
 To fetch the changes from github :
 git merge origin/branch_name
 
